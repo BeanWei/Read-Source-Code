@@ -3,6 +3,7 @@
 >[参考 miguelgrinberg 的微博客项目](https://github.com/miguelgrinberg/microblog) 
 
 ## 项目结构
+```
 -- microblog                (项目文件)
    |
    -- app                   (app项目文件)
@@ -54,3 +55,4 @@
    -- microblog.py          (app启动入口)
    -- requirements.txt      (项目依赖)
    -- tests.py              (测试)
+```
