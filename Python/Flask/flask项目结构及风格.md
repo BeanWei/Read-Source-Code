@@ -4,9 +4,9 @@
 
 ## 项目结构
 ```
--- microblog                (项目文件)
+-- microblog                                (项目文件)
    |
-   -- app                   (app项目文件)
+   -- app                                   (app项目文件)
       |
       -- api
          |
@@ -33,7 +33,7 @@
       -- static
       -- templates
       -- translations/es/LC_MESSAGES
-      -- __init__.py
+      -- __init__.py                        (app入口)
       -- cli.py
       -- email.py
       -- models.py
@@ -50,9 +50,9 @@
    -- README.md
    -- Vagrantfile
    -- babel.cfg
-   -- boot.sh               (app启动脚本)
-   -- config.py             (配置文件)
-   -- microblog.py          (app启动入口)
-   -- requirements.txt      (项目依赖)
-   -- tests.py              (测试)
+   -- boot.sh                               (app启动脚本)
+   -- config.py                             (配置文件)
+   -- microblog.py                          (app启动入口)
+   -- requirements.txt                      (项目依赖)
+   -- tests.py                              (测试)
 ```
